@@ -16,3 +16,7 @@ Notre compilateur est capable de traiter:
 Exemple de compilation du projet:
 
     ./compil.sh test4.ml
+
+To clean:
+
+    make clean
